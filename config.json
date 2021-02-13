@@ -9,7 +9,7 @@
   "dt_remote": "github",
   "dt_path": "device/xiaomi/dandelion",
   "device_code": "dandelion",
-  "fix_product": true,
+  "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
   "fix_branch": "android-10.0"
